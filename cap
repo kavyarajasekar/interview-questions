@@ -1,0 +1,80 @@
+what is the difference between arg and env in docker
+in jenkins i have stage with shell script and one more stage with powershell how will you configure pipeline
+how will u configure jenkins downstream job
+how 2 containers will communicate
+how 2 ec2 instance commmunicate
+how eks should access s3
+how many elastic ips can be created in aws
+in git u accendentally passed secrets how will u resolve it
+how to resolve merge conflict
+keywords in jenkins pipeline
+how will run a pipeline for diiferent stage
+how will u reduce docker image size with jenkins
+pipeline to push image in ecr and deploy in eks
+what is use of post in jenkins
+
+in real time if there any chnages happend manualy in aws and in code also u run in terrform what error comes ,
+terraform suffix,how terraform state file backup, terraform secret ,how to do terraform versioning and updates,
+  how to store secrets in jenkins,freestyle vs pipeline job ,how to upgrade docker version,kubernetes version,
+
+  cg 
+kubernetes
+ 
+architecture
+basics
+ 
+Linux -- security, troubeshooting
+disk related, free space issues, unable to ec2 instance, 
+how to debug application if load is increased
+ 
+find command
+ 
+high availitbilty architect for app  - main ques
+ 
+aws --high availability
+ 
+ 
+how to build multipipeline 
+how to access secret keys in the pipeline,
+ 
+ 
+waf, s3 versioning, ddos attack
+
+
+key store,trust store
+ 
+how high avaliabilty is acheieved
+ 
+how to integrate aws secret manager with jenkins and how do youcall it in pipeline
+ 
+whta are certificates
+ 
+how to protect the secret 
+ 
+how to see if a service is working properly in eks
+ 
+and getting proper requests
+ 
+what tool you use to store the log app log and the step in jenkins
+ 
+after build what happend in maven
+ 
+have you seen maven
+ 
+relese in artifact repo
+ 
+how to create docker image with beeter practices
+ 
+what happens in mage layer
+ 
+what is snashop and relase in maven
+ how to optimise the performance of a microservice
+ 
+some users are facing high latency how will u investigate and mitigate it
+ 
+your visisbility of the dashboard is not proper
+ 
+how to make all pod uses correct resources
+ 
+u see a sceanrio there is a sudden spike of request in apps what would you do
+ 
