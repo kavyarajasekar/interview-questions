@@ -16,3 +16,5 @@ how will secure a k8 cluster
 shellscript to delete log file for more than 7 days
 difference between nat gateway and internet gateway
 how will you upgrade k8 cluster
+purpose of internet gateway
+purpose of workspace in terraform
