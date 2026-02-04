@@ -1,0 +1,18 @@
+what is gitrebase
+what is aws api gateways
+how will integrate jenkins and k8
+there is db pod and app pod how will u limit connectivity between this
+what and tools u have integrated with jenkins for ci/cd
+which tool u used for code quality and how will u integrate jenkkins with sonarqube, what are options are there in the sonarqube
+what is quality gate and how it will abort the pipeline
+nexsus repo ,there are multiple repos in nesus can you explain
+what issues u have usually faced in jenkins pipeline
+how will you configure a pipleine for deployment,if there are any updates in appp what will you do from your end
+shellscript to monitor diskspace and if it is more than 90 u have send mail or notify
+how do you create ecs cluster
+how will you give cross to s3 buckets
+write a terraform code to create s3 bucket with versioning
+how will secure a k8 cluster
+shellscript to delete log file for more than 7 days
+difference between nat gateway and internet gateway
+how will you upgrade k8 cluster
