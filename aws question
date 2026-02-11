@@ -5,3 +5,6 @@ how will load balancer works ,alb vs nlb
 ci/cd pipeline
 a in aws service to service how will it interact in aws
 realtime issues in aws
+when node is not ready what will u do
+terraform is tryingt to recreate resources
+app is not working in internet but pods are up
